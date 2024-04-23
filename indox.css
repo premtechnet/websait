@@ -1,0 +1,347 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@media (min-width:400px) {
+    .one{
+        height: 10vh;
+        width: 100%;
+        background-color: red;
+    }
+    .one i{
+        padding: 2px;
+        font-size: 12px;
+        margin-left: 2%;
+        margin-top: 1.5%;
+        color: white;
+    }
+}
+@media (min-width:400px) {
+    .two p{
+        text-align: center;
+        font-weight: 800;
+        color:red;
+    }
+    #e1{
+        float: right;
+        position: absolute;
+        right:5%;
+        top: 23%;
+    }
+    #e1 a{
+       margin:5px;
+       text-decoration: none;
+       font-size: 15px;
+       color: dimgray;
+       font-weight: 600;
+    }
+    .two img{
+        height: 10vh;
+        width: 5%;
+        margin-left: 2%;
+        margin-top: 4%;
+        border-radius:50%;
+        border: 1px solid darkslategray;
+    } 
+}
+@media (min-width:400px) {
+    .three{
+        margin-left: 3%;
+        margin-top: 4%;
+        font-size: 20px;
+    }
+    .three .fa-facebook-f{
+        height: 5vh;
+        width: 3%;
+        background-color: blue;
+        color: azure;
+        padding-left: 10px;
+        padding-top: 5px;
+    }
+    .three .fa-twitter{
+        height: 5vh;
+        width: 3%;
+        background-color:darkcyan;
+        color: azure;
+        padding-left: 6px;
+        padding-top: 5px;
+    }
+    .three .fa-instagram{
+        height: 5vh;
+        width: 3%;
+        background-color:rosybrown;
+        color: azure;
+        padding-left: 8px;
+        padding-top: 5px;
+    }
+    .three .fa-linkedin-in{
+        height: 5vh;
+        width: 7%;
+        background-color:darkblue;
+        color: azure;
+        border-radius: 5px 5px;
+        padding-left: 6px;
+        padding-top: 5px;
+    }
+    .three .fa-github{
+        height: 5vh;
+        width: 3%;
+        background-color:black;
+        color:cornsilk;
+        padding-left: 8px;
+        padding-top: 5px;
+    }
+    .three .fa-youtube{
+        height: 5vh;
+        width: 3%;
+        background-color:red;
+        color:white;
+        padding-left: 7px;
+        padding-top: 5px;
+    }
+}
+@media (min-width:400px) {
+    .four img{
+        position: absolute;
+        left: 20%;
+        top: 30%;
+    }
+    .four h1{
+        position: absolute;
+        left: 50%;
+        color: aliceblue;
+    }
+}
+@media (min-width:400px) {
+    .five{
+        height: 27vh;
+        width: 27%;
+        background-color: blueviolet;
+        position: absolute;
+        top: 150%;
+        left: 4%;
+        color: aliceblue;
+        font-weight: 600;
+        border-radius: 10px 10px;
+    }
+    .five i{
+        position: absolute;
+        left: 6%;
+        top: 50px;
+    }
+    .five p{
+        position: absolute;
+        left: 6%;
+        top: 70px;
+    }
+}
+@media (min-width:400px) {
+    .six{
+        height: 27vh;
+        width: 27%;
+        background-color: blueviolet;
+        position: absolute;
+        top: 150%;
+        left: 37%;
+        color: aliceblue;
+        font-weight: 600;
+        border-radius: 10px 10px;
+    }
+    .six i{
+        position: absolute;
+        left: 6%;
+        top: 50px;
+    }
+    .six p{
+        position: absolute;
+        left: 6%;
+        top: 70px;
+    }
+}
+@media (min-width:400px) {
+    .sevan{
+        height: 27vh;
+        width: 27%;
+        background-color: blueviolet;
+        position: absolute;
+        top: 150%;
+        left: 70%;
+        color: aliceblue;
+        font-weight: 600;
+        border-radius: 10px 10px;
+    }
+    .sevan i{
+        position: absolute;
+        left: 6%;
+        top: 50px;
+    }
+    .sevan p{
+        position: absolute;
+        left: 6%;
+        top: 70px;
+    }
+}
+@media (min-width:400px) {
+    .eight{
+        margin-top: 40%;
+        text-align: center;
+        text-decoration: underline black;
+    }
+}
+@media (min-width:400px) {
+    .nain{
+        margin-left: 3%;
+        margin-top: 4%;
+        font-size: 20px;
+    }
+    .nain .fa-facebook-f{
+        height: 5vh;
+        width: 7%;
+        background-color: blue;
+        color: azure;
+        padding-left: 10px;
+        padding-top: 5px;
+        border-radius: 5px 5px;
+    }
+    .nain .fa-twitter{
+        height: 5vh;
+        width: 3%;
+        background-color:darkcyan;
+        color: azure;
+        padding-left: 6px;
+        padding-top: 5px;
+    }
+    .nain .fa-instagram{
+        height: 5vh;
+        width: 3%;
+        background-color:rosybrown;
+        color: azure;
+        padding-left: 8px;
+        padding-top: 5px;
+    }
+    .nain .fa-linkedin-in{
+        height: 5vh;
+        width: 3%;
+        background-color:darkblue;
+        color: azure;
+        padding-left: 6px;
+        padding-top: 5px;
+    }
+    .nain .fa-github{
+        height: 5vh;
+        width: 3%;
+        background-color:black;
+        color:cornsilk;
+        padding-left: 8px;
+        padding-top: 5px;
+    }
+    .nain .fa-youtube{
+        height: 5vh;
+        width: 3%;
+        background-color:red;
+        color:white;
+        padding-left: 7px;
+        padding-top: 5px;
+    }
+}
+@media (min-width:400px) {
+    .ten{
+        display: block;
+        justify-self: start;
+        position: absolute;
+          top: 200%;
+          left: 30%;
+    }
+    .ten input[type="name"]{
+        padding: 10px;
+        width: 250%;
+        border-radius: 5px 5px;
+        border: 1px solid dimgray;
+    }
+    .ten input[type="age"]{
+        padding: 10px;
+        width: 250%;
+        border-radius: 5px 5px;
+        border: 1px solid dimgray;
+    }
+    .ten input[type="number"]{
+        padding: 10px;
+        width: 250%;
+        border-radius: 5px 5px;
+        border: 1px solid darkgray;
+    }
+    .ten input[type="email"]{
+        padding: 10px;
+        width: 250%;
+        border-radius: 5px 5px;
+        border: 1px solid dimgray;
+    }
+    .ten input[type="phone"]{
+        padding: 10px;
+        width: 250%;
+        border-radius: 5px 5px;
+        border: 1px solid dimgray;
+    }
+    .ten button{
+       width: 250%;
+       padding: 10px;
+       border-radius: 5px 5px;
+       border: 1px solid dimgray;
+    }
+    .ten .ur{
+        background-color: blue;
+        color: azure;
+    }
+}
+@media (min-width:400px) {
+    .laven img{
+        height: 40vh;
+        width: 100%;
+        margin-top: 20%;
+    }
+    #t1 img{
+        height: 10vh;
+        width: 10%;
+        margin-left: 2%;
+        margin-top: 4%;
+        border-radius:50%;
+        border: 1px solid darkslategray;
+    } 
+    #t1{
+        height: 35vh;
+        width: 27%;
+        background-color:white;
+        position: absolute;
+         top: 307%;
+         left: 8%;
+    }
+    #t1 p{
+        margin-left: 2%;
+    }
+    #t1 h2{
+        margin-left: 2%;
+    }
+    #t2{
+        height: 35vh;
+        width: 27%;
+        background-color:white;
+        position: absolute;
+         top: 307%;
+         left: 60%;
+    }
+    #t2 h3{
+        margin-left: 3%;
+    }
+    #t2 .fa-phone{
+        margin-left: 3%;
+    }
+    #t2 .fa-envelope{
+        margin-left: 3%;
+        margin-top: 5%;
+    }
+    #t2 .fa-location-dot{
+        margin-left: 3%;
+        margin-top: 8%;
+    }
+}
